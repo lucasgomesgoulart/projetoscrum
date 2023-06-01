@@ -41,7 +41,10 @@ trilhar os caminhos no livro de modo a seguir os princípios e etapas da
 metodologia XP. O jogo termina quando o aluno chegar ao final do
 desenvolvimento do software fictício.
 
-
+Benchmark:
+https://canaltech.com.br/internet/50-sites-interessantes-para-te-tirar-do-tedio/
+- https://hackertyper.com/
+- 
 
 Estudos sobre:
 https://repositorio.unesp.br/bitstream/handle/11449/216173/arag%C3%A3o_pap_tcc_sjrp.pdf?sequence=4
