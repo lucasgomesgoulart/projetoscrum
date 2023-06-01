@@ -44,7 +44,7 @@ desenvolvimento do software fictício.
 Benchmark:
 https://canaltech.com.br/internet/50-sites-interessantes-para-te-tirar-do-tedio/
 - https://hackertyper.com/
-- 
+- https://longdogechallenge.com/
 
 Estudos sobre:
 https://repositorio.unesp.br/bitstream/handle/11449/216173/arag%C3%A3o_pap_tcc_sjrp.pdf?sequence=4
